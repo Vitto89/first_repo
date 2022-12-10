@@ -1,0 +1,4 @@
+!# home/tester/python/
+
+x=1
+print(siema daj(x)zloty)
